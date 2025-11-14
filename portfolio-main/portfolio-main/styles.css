@@ -1,0 +1,38 @@
+.logo {
+  width: 150px;
+  height: auto;
+}
+#nav {
+  display: flex;
+  justify-content: space-around; /* Espaçamento igual entre os itens */
+  align-items: center; /* Alinha verticalmente */
+  padding: 10px 20px;
+  background-color: black;
+}
+.navbar-container {
+  background-color: black;
+}
+.nav-text {
+  color: white;
+}
+body {
+  background-color: black !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+li {
+  color: white !important;
+}
+.hero {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; /* Espaçamento igual entre os itens */
+  align-items: center; /* Alinha verticalmente */
+}
