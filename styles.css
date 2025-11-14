@@ -3,5 +3,8 @@
   height: auto;
 }
 .nav {
-  padding-left: 20px;
+  display: flex;
+  justify-content: space-around; /* Espaçamento igual entre os itens */
+  align-items: center; /* Alinha verticalmente */
+  padding: 10px 20px;
 }
